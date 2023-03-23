@@ -19,6 +19,7 @@
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=express)
+![C#](https://img.shields.io/badge/-CSharp?style=flat-square&logo=cs)
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
