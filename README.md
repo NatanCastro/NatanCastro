@@ -32,7 +32,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-- 🔭 I’m currently working on [draft code](https://github.com/Code-Challenge-Draft)
+- 🔭 I’m currently working on [draft code](https://github.com/Code-Challenge-Draft) and as a freelancer
 <!--
 **natan22gt/natan22gt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
