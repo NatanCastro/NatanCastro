@@ -3,8 +3,8 @@
 ## 🌐 Contatos:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-gabriel-castro)
 <a href="mailto:castro.natan@outlook.com" target="_blank">
-  ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
- </a>
+<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+</a>
 
 
 <!-- - 🔭 I’m currently working on [draft code](https://github.com/Code-Challenge-Draft) and as a freelancer -->
