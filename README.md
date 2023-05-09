@@ -6,7 +6,7 @@
 #### Statistics
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=NatanCastro&theme=dark&show_icons=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanCastro&theme=dark&hide=hack,hcl&layout=compact&langs_cont=6">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanCastro&theme=dark&hide=hack,hcl&layout=donut&langs_cont=6">
 </div>
 
 ---
