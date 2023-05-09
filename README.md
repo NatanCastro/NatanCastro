@@ -12,25 +12,32 @@
 ---
 
 ## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=express)
-![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=csharp)
-![.NET](https://img.shields.io/badge/-Dotnet-black?style=flat-square&logo=.net)
-![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
-![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=sass)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![HTML5](https://img.shields.io/badge/HTML-f64114?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-006fff?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=next.js)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-Dotnet-black?style=for-the-badge&logo=.net)
+![Prisma](https://img.shields.io/badge/-Prisma-black?style=for-the-badge&logo=prisma)
+![Jest](https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=jest)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=for-the-badge&logo=sass)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## Studying
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 - 🔭 I’m currently working on [draft code](https://github.com/Code-Challenge-Draft) and as a freelancer
 <!--
