@@ -1,4 +1,4 @@
-### Hi there, my name is Natan 👋
+### Oi meu nome é Natan 👋
 
 ## 🌐 Contatos:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-gabriel-castro)
@@ -46,7 +46,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![NeoVim](https://img.shields.io/badge/-neovim-333333?style=for-the-badge&logo=neovim&logoColor=41fca3)
 
-## Studying
+## Estudando
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
