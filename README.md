@@ -45,18 +45,18 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![NeoVim](https://img.shields.io/badge/-neovim-333333?style=for-the-badge&logo=neovim&logoColor=41fca3)
-<!--
+
 ## Estudando
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
--->
+
 ---
 
 #### Statistics
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=NatanCastro&theme=dark&show_icons=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanCastro&theme=dark&hide=hack,hcl,shell&layout=donut&langs_cont=6">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanCastro&theme=dark&hide=python,php,html,css,go,kotlin,hack,hcl,shell,lua&layout=donut&langs_cont=6">
 </div>
 <!--
 **natan22gt/natan22gt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
