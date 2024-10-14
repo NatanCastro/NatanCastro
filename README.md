@@ -56,7 +56,7 @@
 #### Statistics
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=NatanCastro&theme=dark&show_icons=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanCastro&theme=dark&hide=c%23,php,html,css,hack,javascript,hcl,shell,lua&layout=donut&langs_cont=8">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanCastro&theme=dark&layout=compact&hide=c%23,php,html,css,hack,javascript,hcl,shell,lua&langs_cont=6">
 </div>
 <!--
 **natan22gt/natan22gt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
