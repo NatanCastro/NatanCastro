@@ -22,12 +22,7 @@
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=next.js)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-Dotnet-black?style=for-the-badge&logo=.net)
-![Prisma](https://img.shields.io/badge/-Prisma-black?style=for-the-badge&logo=prisma)
-![Jest](https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=jest)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=for-the-badge&logo=sass)
 
 **Banco de Dados**
 
@@ -43,13 +38,13 @@
 
 **Ferramentas de Desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![NeoVim](https://img.shields.io/badge/-neovim-333333?style=for-the-badge&logo=neovim&logoColor=41fca3)
 
 ## Estudando
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
 ---
 
